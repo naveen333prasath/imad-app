@@ -1,3 +1,3 @@
 # imad-app
 
-IMAD course application.
+IMAD I MADE application.
